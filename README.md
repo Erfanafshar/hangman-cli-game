@@ -29,22 +29,6 @@ topics/
 
 Each `.txt` file contains lowercase words separated by spaces, one file per topic.
 
-## How to Run
-
-1. Compile the program:
-
-   ```bash
-   gcc -o hangman main.c
-   ```
-
-2. Run the game:
-
-   ```bash
-   ./hangman
-   ```
-
-3. Follow the prompts to enter your name, choose a topic, and begin guessing letters.
-
 ## Notes
 
 - Player progress and high scores can be saved and reloaded between sessions.
